@@ -1,16 +1,66 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Arthur Augusto
 
-<!--
-**ArthurAugustoOli/ArthurAugustoOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Web** com foco em **backend, frontend e construção de soluções digitais completas**.  
+Tenho experiência criando aplicações do zero, lidando com lógica, banco de dados, interfaces, organização de código e experiência do usuário.
 
-Here are some ideas to get you started:
+Gosto de entender o problema como um todo e transformar ideias em produtos funcionais, bem estruturados e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que eu faço
+- Estudo muito para continuar evoluíndo😅
+- Aprendo rápido para não ficar atrás no mercado😁
+- Trabalho duro para ser o melhor profissional possível😎
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 👨‍💻 Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### ⚙️ Ferramentas e Versionamento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+### 🎨 Design & Criação
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45"/>
+</p>
+---
+
+## 📚 Atualmente aprendendo
+- ⚛️ React
+- Boas práticas de arquitetura e organização de projetos
+- Aprimoramento contínuo em backend e frontend
+
+---
+
+## 📌 Sobre este GitHub
+Este GitHub reúne projetos pessoais, estudos e experimentos, refletindo minha evolução técnica, curiosidade e forma de pensar soluções.
+
+---
+
+## 📫 Onde me encontrar
+- 💼 LinkedIn: https://www.linkedin.com/in/arthur-augusto-oliveira-dias-263384316/
+
+---
+
+> “The people who are crazy enough to think they can change the world are the ones who do.”  
+> — Steve Jobs
