@@ -89,13 +89,13 @@ Este GitHub reúne projetos pessoais, estudos e experimentos, refletindo minha e
 ## Agora que você me conhece, duvido fazer mais que 30 pontos aqui👇
 
 <p align="center">
-  <a href="https://arthuraugusto.github.io/bug-hunt /" target="_blank">
+  <a href="https://arthuraugustooli.github.io/bug-hunt/" target="_blank">
     <img src="killlllthebugsss.gif" alt="MATADOR DE INSETOS" width="600"/>
   </a>
 </p>
 
 <p align="center">
-  👉 <strong><a href="https://arthuraugusto.github.io/bug-hunt" target="_blank">
+  👉 <strong><a href="https://arthuraugustooli.github.io/bug-hunt/" target="_blank">
     Clique aqui para jogar
   </a></strong>
 </p>
