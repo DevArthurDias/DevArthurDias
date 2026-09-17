@@ -95,7 +95,7 @@ Este GitHub reúne projetos pessoais, estudos e experimentos, refletindo minha e
 </p>
 
 <p align="center">
-  👉 <strong><a href="https://arthuraugustooli.github.io/bug-hunt/" target="_blank">
+  👉 <strong><a href="https://DevArthurDias.github.io/bug-hunt/" target="_blank">
     Clique aqui para jogar
   </a></strong>
 </p>
