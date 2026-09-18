@@ -1,16 +1,9 @@
 ## 👋 Olá, eu sou o Arthur Augusto
 
-Sou **Desenvolvedor Web** com foco em **backend, frontend e construção de soluções digitais completas**.  
-Tenho experiência criando aplicações do zero, lidando com lógica, banco de dados, interfaces, organização de código e experiência do usuário.
+Sou **Desenvolvedor Web** com foco em **backend, frontend.**.  
 
 Gosto de entender o problema como um todo e transformar ideias em produtos funcionais, bem estruturados e escaláveis.
 
----
-
-## 🚀 O que eu faço
-- Estudo muito para continuar evoluíndo😅
-- Aprendo rápido para não ficar atrás no mercado😁
-- Trabalho duro para ser o melhor profissional possível😎
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
@@ -62,10 +55,7 @@ Gosto de entender o problema como um todo e transformar ideias em produtos funci
 ---
 
 ## 📚 Atualmente aprendendo
-- ⚛️ React
-- Boas práticas de arquitetura e organização de projetos
-- Aprimoramento contínuo em backend e frontend
-
+- Estou cursando bacharelado em sistemas da informação na UFOP ( Universidade Federal De Ouro Preto ) 
 ---
 
 ## 📌 Sobre este GitHub
@@ -85,20 +75,6 @@ Este GitHub reúne projetos pessoais, estudos e experimentos, refletindo minha e
 
 
 ---
-
-## Agora que você me conhece, duvido fazer mais que 30 pontos aqui👇
-
-<p align="center">
-  <a href="https://arthuraugustooli.github.io/bug-hunt/" target="_blank">
-    <img src="killlllthebugsss.gif" alt="MATADOR DE INSETOS" width="600"/>
-  </a>
-</p>
-
-<p align="center">
-  👉 <strong><a href="https://DevArthurDias.github.io/bug-hunt/" target="_blank">
-    Clique aqui para jogar
-  </a></strong>
-</p>
 
 
 
